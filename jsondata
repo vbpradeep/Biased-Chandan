@@ -1,0 +1,20 @@
+window.kanbandata = [
+            { id: 1, field: "Open", text: "Task 1", task: "Feature", assignee: "User1", css: "critical", templatecolumn: "#cardtemplate" },
+            { id: 2, field: "Open", text: "Task 2", task: "Feature", assignee: "User1", tags: "ej,Kanban2", imgUrl: "" },
+            { id: 3, field: "InProgress", text: "Task 3", task: "Bug", assignee: "User2", tags: "ej,Kanban3", imgUrl: "themes/common-images/3.jpg", css: "critical" },
+            { id: 4, field: "Testing", text: "Task 4", task: "Story", assignee: "User3", tags: "ej,Kanban4", imgUrl: "themes/common-images/4.jpg", css: "critical" },
+            { id: 5, field: "InProgress", text: "Task 5", task: "Bug", assignee: "User3", tags: "ej,kanban4,kanban5,kanban6,kanban7,kanban8,kanban9,kanban10", imgUrl: "themes/common-images/5.jpg" },
+            { id: 6, field: "Close", text: "Task 6", task: "Feature", assignee: "User1", tags: "tag,Kanban6", imgUrl: "themes/common-images/6.jpg", templatecolumn: "#cardtemplate" },
+            { id: 7, field: "Open", text: "Task 7", assignee: "User1" },
+            { id: 8, field: "Open", text: "Task 8", assignee: "User4" },
+            { id: 9, field: "Close", text: "Task 9", assignee: "User5" },
+            { id: 10, field: "InProgress", text: "Task 10", assignee: "User1" },
+            { id: 11, field: "InProgress", text: "Task 11", assignee: "User6" },
+            { id: 12, field: "Testing", text: "Task 12", assignee: "User7" },
+            { id: 13, field: "Testing", text: "Task 13", assignee: "User8" },
+            { id: 14, field: "Testing", text: "Task 14", assignee: "User9" },
+            { id: 15, field: "Close", text: "Task 15", assignee: "User1" },
+            { id: 16, field: "Open", text: "Task 16", assignee: "User7" },
+            { id: 17, field: "Close", text: "Task 17", assignee: "User8" },
+            { id: 18, field: "InProgress", text: "Task 18", assignee: "User9" }
+        ];
